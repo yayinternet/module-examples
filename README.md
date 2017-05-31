@@ -17,3 +17,4 @@
   - Run `$ node scripts.js`
   - Navigate to http://localhost:3000
   - See that the "request to server!" message prints on the terminal every time you make a request
+    - Try loading http://localhost:3000/hello/hello/hello for instance
