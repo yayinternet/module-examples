@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "main": "server.js",
   "dependencies": {
-    "express": "^4.15.3",
-    "express-handlebars": "^3.0.0",
-    "mongodb": "^2.2.27"
+    "express": "^4.15.3"
   },
   "devDependencies": {},
   "scripts": {
